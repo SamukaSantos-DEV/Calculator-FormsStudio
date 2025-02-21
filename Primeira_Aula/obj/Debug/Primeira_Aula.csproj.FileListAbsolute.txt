@@ -1,0 +1,81 @@
+D:\etim2022.ds\Desktop\c#\Primeira_Aula\Primeira_Aula\bin\Debug\Primeira_Aula.exe.config
+D:\etim2022.ds\Desktop\c#\Primeira_Aula\Primeira_Aula\bin\Debug\Primeira_Aula.exe
+D:\etim2022.ds\Desktop\c#\Primeira_Aula\Primeira_Aula\bin\Debug\Primeira_Aula.pdb
+D:\etim2022.ds\Desktop\c#\Primeira_Aula\Primeira_Aula\obj\Debug\Primeira_Aula.csproj.AssemblyReference.cache
+D:\etim2022.ds\Desktop\c#\Primeira_Aula\Primeira_Aula\obj\Debug\Primeira_Aula.Form1.resources
+D:\etim2022.ds\Desktop\c#\Primeira_Aula\Primeira_Aula\obj\Debug\Primeira_Aula.Properties.Resources.resources
+D:\etim2022.ds\Desktop\c#\Primeira_Aula\Primeira_Aula\obj\Debug\Primeira_Aula.csproj.GenerateResource.cache
+D:\etim2022.ds\Desktop\c#\Primeira_Aula\Primeira_Aula\obj\Debug\Primeira_Aula.csproj.CoreCompileInputs.cache
+D:\etim2022.ds\Desktop\c#\Primeira_Aula\Primeira_Aula\obj\Debug\Primeira_Aula.exe
+D:\etim2022.ds\Desktop\c#\Primeira_Aula\Primeira_Aula\obj\Debug\Primeira_Aula.pdb
+D:\c#\Primeira_Aula\Primeira_Aula\bin\Debug\Primeira_Aula.exe.config
+D:\c#\Primeira_Aula\Primeira_Aula\bin\Debug\Primeira_Aula.exe
+D:\c#\Primeira_Aula\Primeira_Aula\bin\Debug\Primeira_Aula.pdb
+D:\c#\Primeira_Aula\Primeira_Aula\obj\Debug\Primeira_Aula.csproj.AssemblyReference.cache
+D:\c#\Primeira_Aula\Primeira_Aula\obj\Debug\Primeira_Aula.Form1.resources
+D:\c#\Primeira_Aula\Primeira_Aula\obj\Debug\Primeira_Aula.Properties.Resources.resources
+D:\c#\Primeira_Aula\Primeira_Aula\obj\Debug\Primeira_Aula.csproj.GenerateResource.cache
+D:\c#\Primeira_Aula\Primeira_Aula\obj\Debug\Primeira_Aula.csproj.CoreCompileInputs.cache
+D:\c#\Primeira_Aula\Primeira_Aula\obj\Debug\Primeira_Aula.exe
+D:\c#\Primeira_Aula\Primeira_Aula\obj\Debug\Primeira_Aula.pdb
+E:\Calculadora\c#\Primeira_Aula\Primeira_Aula\bin\Debug\Primeira_Aula.exe.config
+E:\Calculadora\c#\Primeira_Aula\Primeira_Aula\bin\Debug\Primeira_Aula.exe
+E:\Calculadora\c#\Primeira_Aula\Primeira_Aula\bin\Debug\Primeira_Aula.pdb
+E:\Calculadora\c#\Primeira_Aula\Primeira_Aula\obj\Debug\Primeira_Aula.csproj.AssemblyReference.cache
+E:\Calculadora\c#\Primeira_Aula\Primeira_Aula\obj\Debug\Primeira_Aula.csproj.SuggestedBindingRedirects.cache
+E:\Calculadora\c#\Primeira_Aula\Primeira_Aula\obj\Debug\Primeira_Aula.Properties.Resources.resources
+E:\Calculadora\c#\Primeira_Aula\Primeira_Aula\obj\Debug\Primeira_Aula.csproj.GenerateResource.cache
+E:\Calculadora\c#\Primeira_Aula\Primeira_Aula\obj\Debug\Primeira_Aula.csproj.CoreCompileInputs.cache
+E:\Calculadora\c#\Primeira_Aula\Primeira_Aula\obj\Debug\Primeira_Aula.exe
+E:\Calculadora\c#\Primeira_Aula\Primeira_Aula\obj\Debug\Primeira_Aula.pdb
+E:\Calculadora\c#\Primeira_Aula\Primeira_Aula\obj\Debug\Primeira_Aula.Calculadora.resources
+F:\4° Bimestre\TPA\Calculadora\Primeira_Aula\bin\Debug\Primeira_Aula.exe.config
+F:\4° Bimestre\TPA\Calculadora\Primeira_Aula\bin\Debug\Primeira_Aula.exe
+F:\4° Bimestre\TPA\Calculadora\Primeira_Aula\bin\Debug\Primeira_Aula.pdb
+F:\4° Bimestre\TPA\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.csproj.AssemblyReference.cache
+F:\4° Bimestre\TPA\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.Calculadora.resources
+F:\4° Bimestre\TPA\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.Properties.Resources.resources
+F:\4° Bimestre\TPA\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.csproj.GenerateResource.cache
+F:\4° Bimestre\TPA\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.csproj.CoreCompileInputs.cache
+F:\4° Bimestre\TPA\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.exe
+F:\4° Bimestre\TPA\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.pdb
+D:\etim2022.ds\Desktop\Calculadora\Primeira_Aula\bin\Debug\Primeira_Aula.exe.config
+D:\etim2022.ds\Desktop\Calculadora\Primeira_Aula\bin\Debug\Primeira_Aula.exe
+D:\etim2022.ds\Desktop\Calculadora\Primeira_Aula\bin\Debug\Primeira_Aula.pdb
+D:\etim2022.ds\Desktop\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.csproj.AssemblyReference.cache
+D:\etim2022.ds\Desktop\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.Calculadora.resources
+D:\etim2022.ds\Desktop\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.Properties.Resources.resources
+D:\etim2022.ds\Desktop\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.csproj.GenerateResource.cache
+D:\etim2022.ds\Desktop\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.csproj.CoreCompileInputs.cache
+D:\etim2022.ds\Desktop\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.exe
+D:\etim2022.ds\Desktop\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.pdb
+F:\1° BIMESTRE\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.csproj.AssemblyReference.cache
+F:\1° BIMESTRE\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.Calculadora.resources
+F:\1° BIMESTRE\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.Properties.Resources.resources
+F:\1° BIMESTRE\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.csproj.GenerateResource.cache
+F:\1° BIMESTRE\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.csproj.CoreCompileInputs.cache
+F:\1° BIMESTRE\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.exe
+F:\1° BIMESTRE\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.pdb
+F:\1° BIMESTRE\Calculadora\Primeira_Aula\bin\Debug\Primeira_Aula.exe.config
+F:\1° BIMESTRE\Calculadora\Primeira_Aula\bin\Debug\Primeira_Aula.exe
+F:\1° BIMESTRE\Calculadora\Primeira_Aula\bin\Debug\Primeira_Aula.pdb
+F:\1° BIMESTRE\DS\Calculadora\Primeira_Aula\bin\Debug\Primeira_Aula.exe.config
+F:\1° BIMESTRE\DS\Calculadora\Primeira_Aula\bin\Debug\Primeira_Aula.exe
+F:\1° BIMESTRE\DS\Calculadora\Primeira_Aula\bin\Debug\Primeira_Aula.pdb
+F:\1° BIMESTRE\DS\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.csproj.AssemblyReference.cache
+F:\1° BIMESTRE\DS\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.Calculadora.resources
+F:\1° BIMESTRE\DS\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.Properties.Resources.resources
+F:\1° BIMESTRE\DS\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.csproj.GenerateResource.cache
+F:\1° BIMESTRE\DS\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.csproj.CoreCompileInputs.cache
+F:\1° BIMESTRE\DS\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.exe
+F:\1° BIMESTRE\DS\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.pdb
+E:\1° BIMESTRE\DS\Calculadora\Primeira_Aula\bin\Debug\Primeira_Aula.exe.config
+E:\1° BIMESTRE\DS\Calculadora\Primeira_Aula\bin\Debug\Primeira_Aula.exe
+E:\1° BIMESTRE\DS\Calculadora\Primeira_Aula\bin\Debug\Primeira_Aula.pdb
+E:\1° BIMESTRE\DS\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.csprojAssemblyReference.cache
+E:\1° BIMESTRE\DS\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.Calculadora.resources
+E:\1° BIMESTRE\DS\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.Properties.Resources.resources
+E:\1° BIMESTRE\DS\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.csproj.GenerateResource.cache
+E:\1° BIMESTRE\DS\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.exe
+E:\1° BIMESTRE\DS\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.pdb
+F:\1° BIMESTRE\DS\Calculadora\Primeira_Aula\obj\Debug\Primeira_Aula.csproj.SuggestedBindingRedirects.cache
