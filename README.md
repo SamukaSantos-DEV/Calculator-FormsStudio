@@ -38,6 +38,8 @@ Este é um projeto de uma calculadora científica desenvolvido em **C# no Window
 
 ## 📸 Captura de Tela
 
+![image](https://github.com/user-attachments/assets/c9e6a6f0-6745-4c80-bd1f-c12f0a5bf20a)
+![image](https://github.com/user-attachments/assets/5dadaa14-0642-4807-a008-ceb2b63d5c7a)
 
 
 > A imagem acima ilustra a interface da calculadora com todas as funcionalidades descritas.
@@ -61,4 +63,3 @@ Este projeto está sob minha autoria e próprio desenvolvimento.
 Criado com ❤️ por Samuel Santos.
 ```
 
-Altere os campos como "seu-usuario", "nome-do-repositorio" e "caminho-para-a-imagem" com as informações do seu projeto. Se precisar de mais personalizações, avise!
