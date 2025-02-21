@@ -1,6 +1,6 @@
 ﻿# Calculator-FormsStudio
 
-```markdown
+
 # 🖩 Calculadora Científica em C# com Windows Forms
 
 Este é um projeto de uma calculadora científica desenvolvido em **C# no Windows Forms**, com funcionalidades avançadas e uma interface moderna e prática.
@@ -29,7 +29,6 @@ Este é um projeto de uma calculadora científica desenvolvido em **C# no Window
 1. Clone este repositório para sua máquina local:
    ```bash
    git clone https://github.com/SamukaSantos-DEV/Calculator-FormsStudio.git
-   ```
 
 2. Abra o arquivo do projeto no **Visual Studio**.
 
