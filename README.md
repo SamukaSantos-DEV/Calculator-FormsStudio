@@ -61,5 +61,4 @@ Este projeto está sob minha autoria e próprio desenvolvimento.
 ---
 
 Criado com ❤️ por Samuel Santos.
-```
 
